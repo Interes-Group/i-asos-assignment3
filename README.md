@@ -23,7 +23,7 @@ Vytvorenie každému používateľovi aspoň jednu zmluvu podľa vlastného výb
 Vypísanie všetkých používateľov uložených v systéme aj spolu s ich zmluvami. Zmluvy musia byť celé objekty, nie len ID hodnoty.
 
 ## Hodnotenie
-**Zadanie je hodnotené 20 bodmi. Zadanie je nutné odovzdať do 13.11. 23:59!**
+**Zadanie je hodnotené 20 bodmi. Zadanie je nutné odovzdať do 13.12.2020 23:59!**
 
 Zadanie si naklonujte z repozitára zadania. Svoje vypracovanie nahrajte do vášho repozitára pre toto zadanie pomocou programu Git (git commit + git push). Vypracovanie môžete “pusho-vať” priebežne.
 
